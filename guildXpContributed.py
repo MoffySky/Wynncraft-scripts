@@ -1,7 +1,7 @@
 import requests
 import json
 #Guild name with %20 in the place of spaces
-guildname = "CHANGEME"
+guildname = input("Enter guild name (Read the Readme): ")
 # Get the guild stats
 url = f"https://api.wynncraft.com/public_api.php?action=guildStats&command={guildname}"
 response = requests.get(url)
