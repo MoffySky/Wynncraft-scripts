@@ -2,7 +2,7 @@
  This is my custom scripts for wynncraft. <3 Co-Pilot My ghost writer.
 
 
-<h1> How to use guildXpContributed?</h1>
+<h1> How to use guildXpContributed.py?</h1>
 <p> 1. Download the script </p>
 <p> 2. Make sure you have python installed</p>
 <p> 3. Run the script in your commandline using python.</p>
