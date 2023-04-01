@@ -32,4 +32,4 @@ for member in members:
 
 # print the guild members names, contribution and rank
 for i in range(len(names)):
-    print(names[i], contributions[i], ranks[i])
+    print(str(names[i]) + " | " + str(contributions[i]) + " | " + str(ranks[i]))
